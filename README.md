@@ -26,8 +26,8 @@ I'm **Zaid Mohammed Said**, a **Blockchain & Full-Stack Developer** passionate a
 ---
 
 ## 📊 GitHub Stats:
-![](http://github-readme-streak-stats.herokuapp.com?user=zaidsaid-007&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidsaid-007&theme=tokyonight&hide_border=false&layout=compact)
+![](http://github-readme-streak-stats.herokuapp.com?user=Zaid-said&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid-said&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
